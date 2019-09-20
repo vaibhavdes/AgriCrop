@@ -13,3 +13,6 @@ Developers:
     2) Smita
     3) Pooja
     4) Vaibhav
+    
+AgriCrop.zip    = Android Code
+Agripro.zip     = PHP-ML Code
